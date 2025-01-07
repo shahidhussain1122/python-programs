@@ -5,4 +5,5 @@ def bubble_sort(arr):
             if(arr[j] > arr[j+1]):
                 arr[j],arr[j+1] = arr[j+1],arr[j]
     return arr
+    
 print(bubble_sort([64, 34, 25, 12, 22, 11, 90]))

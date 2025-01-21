@@ -1,7 +1,7 @@
 import requests
 
 # Target URL
-url = "http://118.107.134.251/uobs-lms/login"  # Replace with your site's login endpoint
+url = "http://example.com/login"  # Replace with your site's login endpoint
 
 # List of SQL injection payloads to test
 payloads = [

@@ -2,7 +2,7 @@ import random
 import string
 
 # Base words
-words = ["admin", "jawadusman", "jawad", "usman"]
+words = ["admin"]
 
 # Special characters and numbers
 special_chars = "!@#$%^&*"
